@@ -1,0 +1,24 @@
+.nav-item-base {
+  color: #fff;
+  background-color: #344054;
+  border-radius: 6px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 12px;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 500;
+  line-height: 24px;
+  display: flex;
+}
+
+.home-line {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+
+.text-27 {
+  margin-left: 13px;
+}

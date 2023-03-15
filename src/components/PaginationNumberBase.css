@@ -1,0 +1,13 @@
+.pagination-number-base-3 {
+  color: #667085;
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  font-family: Inter, Arial;
+  font-size: .6rem;
+  font-weight: 500;
+  line-height: 20px;
+  display: flex;
+}

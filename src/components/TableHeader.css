@@ -1,0 +1,15 @@
+.table-header {
+  color: #fff;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 700;
+  line-height: 20px;
+  display: flex;
+}
+
+.text-28 {
+  text-transform: capitalize;
+}

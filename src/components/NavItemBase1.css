@@ -1,0 +1,23 @@
+.nav-item-base-1 {
+  color: #eee;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 12px;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 500;
+  line-height: 24px;
+  display: flex;
+}
+
+.settings {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+
+.text-30 {
+  margin-top: 1px;
+  margin-left: 13px;
+}

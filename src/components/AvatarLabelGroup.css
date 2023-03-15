@@ -1,0 +1,36 @@
+.avatar-label-group {
+  color: #bbe1fa;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 400;
+  line-height: 20px;
+  display: flex;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+.flex-container-29 {
+  height: 80%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 1px;
+  margin-left: 13px;
+  display: flex;
+}
+
+.text-29 {
+  color: #fff;
+  font-weight: 500;
+}
+
+.supporting-text {
+  font-size: .6rem;
+}

@@ -1,0 +1,13 @@
+.button-group-base-1 {
+  color: #fff;
+  background-color: #344054;
+  border: 1px solid #eee;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 500;
+  line-height: 20px;
+  display: flex;
+}

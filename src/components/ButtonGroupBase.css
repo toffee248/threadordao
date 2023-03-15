@@ -1,0 +1,19 @@
+.button-group-base {
+  color: #fff;
+  background-color: #344054;
+  border: 1px solid #eee;
+  border-radius: 8px 0 0 8px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2px;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 500;
+  line-height: 20px;
+  display: flex;
+}
+
+.text-31 {
+  margin-top: 1px;
+}

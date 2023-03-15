@@ -1,0 +1,18 @@
+.button-1 {
+  color: #487fe8;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 1px;
+  font-family: Inter, Arial;
+  font-size: .7rem;
+  font-weight: 500;
+  line-height: 20px;
+  display: flex;
+}
+
+.arrow-right-2 {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
